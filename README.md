@@ -1,4 +1,4 @@
-## ✨ Desafio - Modelagem UML e Programacao Orientada a Objetos com Java
+## Desafio - Modelagem UML e Programacao Orientada a Objetos com Java
 
 Este projeto foi desenvolvido com o objetivo de colocar em prática conceitos de **análise de negócios**, **levantamento de requisitos**, **programação orientada a objetos (POO)** e **modelagem UML**, conforme proposto no desafio da formação.
 
