@@ -19,8 +19,6 @@ A partir do vídeo de lançamento do iPhone ([iPhone 2017 - YouTube](https://www
 
 * Java
 * UML (com Mermaid)
-* IDE: VS Code / Eclipse / IntelliJ
-* Git e GitHub
 
 ### 🖋️ Diagrama de Classes (UML)
 
